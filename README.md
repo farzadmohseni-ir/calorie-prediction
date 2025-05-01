@@ -84,6 +84,7 @@ For deeper statistical insight, we use the `statsmodels` library to fit a linear
 ---
 
 <div dir="rtl">
+
 ## 📊 تمرین رگرسیون – پیش‌بینی کالری مصرفی
 
 ### 🧩 شرح مسئله
